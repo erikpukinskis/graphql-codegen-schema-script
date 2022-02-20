@@ -1,5 +1,5 @@
 {
-  "name": "graphql-codegen-plugin-schema-source",
+  "name": "graphql-codegen-schema-script",
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
