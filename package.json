@@ -4,5 +4,8 @@
   "main": "index.js",
   "dependencies": {
     "graphql-tag": "*"
+  },
+  "scripts": {
+    "bump": "./bump.sh"
   }
 }
