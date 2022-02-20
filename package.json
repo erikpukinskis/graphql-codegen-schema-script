@@ -1,0 +1,8 @@
+{
+  "name": "graphql-codegen-plugin-schema-source",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "graphql-tag": "*"
+  }
+}
